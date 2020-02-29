@@ -5,7 +5,7 @@
 
 # Define a new `ui` variable. This variable should be assigned a `fluidPage()` layout
 # The `fluidPage()` layout should be passed the following:
-
+ui <- fluidPage()
   
   # A `titlePanel()` layout with the text "Cost Calculator"
 
